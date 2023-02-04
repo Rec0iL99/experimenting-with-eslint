@@ -1,0 +1,19 @@
+{
+  "name": "experimenting-with-eslint",
+  "version": "1.0.0",
+  "description": "Experimenting with ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rec0iL99/experimenting-with-eslint.git"
+  },
+  "author": "Joel Mathew Koshy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rec0iL99/experimenting-with-eslint/issues"
+  },
+  "homepage": "https://github.com/Rec0iL99/experimenting-with-eslint#readme"
+}
