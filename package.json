@@ -4,6 +4,7 @@
   "description": "Experimenting with ESLint",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Rec0iL99/experimenting-with-eslint/issues"
   },
-  "homepage": "https://github.com/Rec0iL99/experimenting-with-eslint#readme"
+  "homepage": "https://github.com/Rec0iL99/experimenting-with-eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "nodemon": "^2.0.20"
+  }
 }
